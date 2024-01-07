@@ -1,5 +1,4 @@
-"#Edit String"
-#Edit String
+Edit String
 
 This program prompts a user for a string and then repeatedly prompts the user for changes to the string, until the user enters X , indicating the end of changes. 
 Legal change operations are 
