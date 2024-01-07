@@ -10,15 +10,15 @@ Z - undo the most recent change
 
 # code explanantion 
 
-- used scanner to read user input
-- used string builder to be able to modify the content of the string builder object without creating a new one
-- used a main loop to accept commands
-- used switch statement to handle different operations
-- for the C ch1 to ch2 command, I created a method .
-- for the U command, I converted the string to uppercase.
-- for the L command, I converted the string to lowercase.
-- for the R command, I reversed the characters of the string.
-- for the Z command, I undid the most recent change by reverting to the original string. 
+- Used scanner to read user input
+- Used string builder to be able to modify the content of the string builder object without creating a new one
+- Used a main loop to accept commands
+- Used switch statement to handle different operations
+- For the C ch1 to ch2 command, I created a method .
+- For the U command, i converted the string to uppercase.
+- For the L command, i converted the string to lowercase.
+- For the R command, i reversed the characters of the string.
+- For the Z command, i undid the most recent change by reverting to the original string. 
 
 
 
